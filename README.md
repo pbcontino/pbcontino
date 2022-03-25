@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @pbcontino
 - 👀 I’m interested in AI,machine learning, RPA, analytics and visualization
-- 🌱 I’m currently learning python and R
+- 🌱 I’m currently learning python, OpenCV, TensorFlow and R
 
 <!---
 pbcontino/pbcontino is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
